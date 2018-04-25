@@ -1,5 +1,7 @@
 <ul>
     {% for product in products %}
-        <li>{{ product.product_name }}</li>
+        <li><a href="{% url 'store:product_detail' product.id product.product_slug %}">
+            {{ product.product_name }}
+        </a></li>
     {% endfor %}
 </ul>

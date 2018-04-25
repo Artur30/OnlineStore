@@ -3,18 +3,16 @@ from django.http import HttpResponse
 from .models import Category, Product
 
 
-def product_list(request):
-    products = Product.objects.filter(product_available=True)
-    context = {'products': products}
-    return render(request, 'store/product/list.html', context)
+def product_list(request, category_slug=None):
+    args = dict()
+    args['category'] = None
+    args['products'] = Product.objects.filter(product_available=True)
 
+    if category_slug:
+        args['category'] = get_object_or_404(Category, category_slug=category_slug)
+        args['products'] = Product.objects.filter(category=args['category'])
 
-def product_list_by_category(request, category_slug):
-    category = get_object_or_404(Category, category_slug=category_slug)
-    products = Product.objects.filter(category=category)
-
-    context = {'products': products}
-    return render(request, 'store/product/list.html', context)
+    return render(request, 'store/product/list.html', args)
 
 
 def product_detail(request, id, product_slug):
