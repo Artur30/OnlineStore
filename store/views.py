@@ -21,4 +21,3 @@ def product_detail(request, id, product_slug):
                                 product_available=True)
     context = {'product': product}
     return render(request, 'store/product/detail.html', context)
-

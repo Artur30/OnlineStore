@@ -1,5 +1,13 @@
-<p>{{ product.product_name }}</p>
-<p>{{ product.product_price }}</p>
+{% extends 'store/base.html' %}
+
+{% block title %}
+    {{ product.product_name }}
+{% endblock %}
+
+{% block content %}
+    <p>{{ product.product_name }}</p>
+    <p>{{ product.product_price }}</p>
+{% endblock %}
 
 
 

@@ -1,3 +1,14 @@
+{% extends 'store/base.html' %}
+
+{% block title %}
+    {% if category %}
+        {{ category.category_name }}
+    {% else %}
+        Products
+    {% endif %}
+{% endblock %}
+
+{% block content %}
 <ul>
     {% for product in products %}
         <li><a href="{% url 'store:product_detail' product.id product.product_slug %}">
@@ -5,3 +16,4 @@
         </a></li>
     {% endfor %}
 </ul>
+{% endblock %}
