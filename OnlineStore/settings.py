@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = (
     'store',
+    'cart',
 
     'django.contrib.admin',
     'django.contrib.auth',
@@ -108,3 +109,8 @@ STATICFILES_DIRS = [
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static/media/')
 MEDIA_URL = '/static/media/'
+
+
+# Session
+CART_SESSION_ID = 'cart'
+
