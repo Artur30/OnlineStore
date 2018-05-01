@@ -1,12 +1,14 @@
 from decimal import Decimal
 from django.conf import settings
 from store.models import Product, Category
+from django.http import HttpResponse
 
 
 class Cart:
 
     def __init__(self, request):
         self.session = request.session
+
         cart = self.session.get(settings.CART_SESSION_ID)
 
         if not cart:
@@ -24,9 +26,10 @@ class Cart:
             }
 
         if update_quantity:
-            self.cart[product_id] = quantity
+            self.cart[product_id]['quantity'] = quantity
         else:
-            self.cart[product_id] += quantity
+            self.cart[product_id]['quantity'] += quantity
+        self.save()
 
     def save(self):
         # Обновить сессию
@@ -35,7 +38,7 @@ class Cart:
         self.session.modified = True
 
     def remove(self, product):
-        product_id = str(product)
+        product_id = str(product.id)
 
         if product_id in self.cart:
             del self.cart[product_id]
