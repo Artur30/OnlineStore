@@ -22,6 +22,7 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^cart/', include('cart.urls')),
+    url(r'^order/', include('order.urls')),
     url(r'^', include('store.urls')),
 ]
 

@@ -7,6 +7,7 @@ from cart.forms import CartAddProductForm
 def cart_add(request, product_id):
     cart = Cart(request)
     product = get_object_or_404(Product, id=product_id)
+    cart_product_form = CartAddProductForm()
 
     if request.POST:
         form = CartAddProductForm(request.POST)
@@ -16,8 +17,9 @@ def cart_add(request, product_id):
                 quantity=form.cleaned_data['quantity'],
                 update_quantity=form.cleaned_data['update'],
             )
-        return redirect('cart:cart_detail')
-    #return render(request, '', {''})
+        return render(request, 'store/product/detail.html', {
+            'product': product, 'cart_product_form': cart_product_form,
+        })
 
 
 def cart_remove(request, product_id):
