@@ -3,6 +3,7 @@ from cart.cart import Cart
 from order.forms import OrderCreateForm
 from order.models import Order, OrderItem
 from django.template.context_processors import csrf
+from order.tasks import order_created
 
 
 def order_create(request):
@@ -22,6 +23,7 @@ def order_create(request):
                     order_item_quantity=item['quantity']
                 )
             args['cart'].clear()
+            order_created.delay(args['order'].id)
             return render(request, 'order/created.html', args)
     else:
         args['form'] = OrderCreateForm

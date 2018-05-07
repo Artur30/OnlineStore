@@ -1,4 +1,4 @@
-#!/home/murza/Programming/web/OnlineStore/venv/bin/python
+#!/Users/murza/Programming/web/OnlineStore/venv/bin/python3.6
 from django.core import management
 
 if __name__ == "__main__":
