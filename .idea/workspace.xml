@@ -2,314 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f2e47f-c909-4e07-99b7-6dd0862b8fcb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/OnlineStore/celery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OnlineStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OnlineStore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineStore/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineStore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python-config" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python-config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3.6" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python3.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/wheel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/__future__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/__future__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_bootlocale.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/_bootlocale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_collections_abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/_collections_abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_dummy_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/_dummy_thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_weakrefset.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/_weakrefset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/base64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/bisect.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/bisect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/codecs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/codecs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/collections" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/collections" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copyreg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/copyreg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/encodings" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/encodings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/fnmatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/fnmatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/functools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/functools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/genericpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/genericpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hashlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/hashlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/heapq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/hmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/imp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/imp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/importlib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/importlib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/io.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/keyword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/lib-dynload" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/lib-dynload" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/linecache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/linecache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/locale.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/locale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/ntpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/ntpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/orig-prefix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/orig-prefix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/os.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/os.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/posixpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/posixpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/reprlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/reprlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/rlcompleter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/rlcompleter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/shutil.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/shutil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-2.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libfreetype-550560cb.so.6.16.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libjpeg-4268453f.so.9.2.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/liblcms2-a6801db4.so.2.0.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/liblzma-90de1f11.so.5.2.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libopenjp2-e366d6b0.so.2.1.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libpng16-ae2ecf4b.so.16.25.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libtiff-8a6d997d.so.5.3.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebp-bfdb2e44.so.7.0.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebpdemux-8c59f8fd.so.2.0.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libwebpmux-91d7e317.so.3.0.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/.libs/libz-a147dcb0.so.1.2.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imaging.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingcms.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingft.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingmath.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingmorph.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_imagingtk.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/PIL/_webp.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/METADATA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/WHEEL" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Pillow-5.1.0.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css-0.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css-0.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css-0.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css-0.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css-0.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/css/grammar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/th/formats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/th/formats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/checks.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/checks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/mn/LC_MESSAGES/djangojs.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/sr/LC_MESSAGES/djangojs.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/locale/zh_Hans/LC_MESSAGES/djangojs.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/views/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/views/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admin/widgets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/middleware.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/admindocs/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/base_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/base_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/id/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/auth/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/contenttypes/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/flatpages/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/db/models/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/db/models/fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/forms/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/forms/fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/forms/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/forms/widgets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/geos/geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/geos/geometry.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/gis/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/humanize/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/messages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/messages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/postgres/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/redirects/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sessions/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.mo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/contrib/sites/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/core/management/commands/runserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/core/management/commands/runserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/core/management/templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/core/management/templates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/base/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/base/schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/introspection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/introspection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/migrations/questioner.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/migrations/questioner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/deletion.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/deletion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/expressions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/fields/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/fields/files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/indexes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/indexes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/query_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/query_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/sql/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/sql/query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/dispatch/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/dispatch/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/jinja2/django/forms/widgets/multiwidget.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/jinja2/django/forms/widgets/multiwidget.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/templates/django/forms/widgets/multiwidget.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/templates/django/forms/widgets/multiwidget.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/forms/widgets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/urls/resolvers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/urls/resolvers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/archive.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/archive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/autoreload.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/autoreload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/html.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip-10.0.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources-0.0.0.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pytz-2018.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pytz-2018.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-39.0.1.dist-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/dist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/monkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/monkey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/package_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/pep425tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.31.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/wheel-0.31.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_compile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/sre_compile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/sre_constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/sre_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/stat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/struct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tarfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/tarfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tempfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/tempfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/tokenize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/warnings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/warnings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/weakref.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/weakref.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/CacheControl-0.11.5-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/chardet-2.3.0-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/distlib-0.2.2-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/html5lib-0.999-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/packaging-16.6-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/pip-8.1.1-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/progress-1.2-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/pyparsing-2.0.3-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/requests-2.9.1-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/setuptools-20.7.0-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/six-1.10.0-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/urllib3-1.13.1-py2.py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/python-wheels/wheel-0.29.0-py2.py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/admin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -332,7 +26,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="340">
               <caret line="25" column="27" selection-start-line="25" selection-end-line="26" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -344,8 +38,8 @@
       <file leaf-file-name="celery.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OnlineStore/celery.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="85">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -356,8 +50,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OnlineStore/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="96" column="15" lean-forward="true" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+            <state relative-caret-position="1632">
+              <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -366,18 +60,42 @@
         <entry file="file://$PROJECT_DIR$/OnlineStore/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order/tasks.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -391,27 +109,6 @@
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="created.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/templates/order/created.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -471,7 +168,6 @@
         <option value="$PROJECT_DIR$/cart/cart.py" />
         <option value="$PROJECT_DIR$/cart/views.py" />
         <option value="$PROJECT_DIR$/order/models.py" />
-        <option value="$PROJECT_DIR$/order/admin.py" />
         <option value="$PROJECT_DIR$/order/forms.py" />
         <option value="$PROJECT_DIR$/OnlineStore/urls.py" />
         <option value="$PROJECT_DIR$/order/urls.py" />
@@ -483,10 +179,11 @@
         <option value="$PROJECT_DIR$/OnlineStore/celery.py" />
         <option value="$PROJECT_DIR$/order/tasks.py" />
         <option value="$PROJECT_DIR$/OnlineStore/settings.py" />
+        <option value="$PROJECT_DIR$/order/admin.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="802" />
@@ -616,7 +313,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="802" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930556" />
@@ -866,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -884,16 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/store/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -960,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OnlineStore/celery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -971,13 +651,13 @@
     <entry file="file://$PROJECT_DIR$/OnlineStore/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="340">
           <caret line="25" column="27" selection-start-line="25" selection-end-line="26" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -987,17 +667,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OnlineStore/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="96" column="15" lean-forward="true" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        <state relative-caret-position="1632">
+          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order/tasks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
